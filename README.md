@@ -6,7 +6,7 @@ Instead of relying on existing GNU utilities, we developed our own versions of i
 
 All commands are enhanced with additional features for improved user interaction and customization.<br>
 
-The executables are integrated into the system path, replacing default utilities for learning purposes, and each command is uniquely identified with the<br> postfix letter "x" (e.g., lsx, pwdx, cpx).<br>
+The executables are integrated into the system path, replacing default utilities for learning purposes, and each command is uniquely identified with the postfix letter "x" (e.g., lsx, pwdx, cpx).<br>
 
 This project demonstrates deep understanding of Linux internals, system calls, file systems, and process management.<br>
 
